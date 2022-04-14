@@ -1,7 +1,7 @@
 # Relion external MicAssess job support
 
 These scripts can be called inside the [Relion](https://relion.readthedocs.io) user interface in the **External** jobs section. 
-They setup a correct *Relion* directory structure and call the external [MicAssess](https://github.com/cianfrocco-lab/Automatic-cryoEM-preprocessing) program to assess the quality of K3 movies.
+They setup a correct *Relion* directory structure and call the external [MicAssess](https://github.com/cianfrocco-lab/Automatic-cryoEM-preprocessing) program to assess the quality of **K3** movies.
 After the micrograph assessment the scripts generate a Relion star file with good micrographs to continue with the CTF job step but also a filelist for cleanup of maybe not-good movies.
 
 *MicAssess* can handle **float32** and **float16** micrographs.
