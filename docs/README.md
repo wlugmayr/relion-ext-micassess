@@ -23,7 +23,7 @@ Quickstart Guide
 ![Relion Import](relion_ext-micassess_run.png)
 
 When the script is done look at the Relion log window for something
-like below. The section before * ### * is the output of *micassess*,
+like below. The section before **###** is the output of *micassess*,
 the lines afterwards come from postprocessing from my script. The list
 of good micrographs contains the great ones.
 
