@@ -26,6 +26,6 @@ It is assumed that the *Relion* and *MicAssess* software is already installed an
 
 ## User guide
 
-A simple user guide can be found on [Relion MicAssess integration](https://confluence.desy.de/display/CCS/Relion+MicAssess+integration).
+A simple user guide can be found on [Relion MicAssess integration](docs/README.md)
 
 
